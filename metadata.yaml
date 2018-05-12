@@ -1,5 +1,8 @@
 _repo: The-Jute-Industry--From-Seed-to-Finished-Cloth_12443
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Kilgour, Peter
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4373'
     url: http://www.gutenberg.org/2009/agents/4373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12443#The-Jute-Industry--From-Seed-to-Finished-Cloth
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
